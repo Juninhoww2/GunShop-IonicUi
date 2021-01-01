@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Outline&display=swap'); 
 #container {
   text-align: center;
 
@@ -6,6 +7,10 @@
   right: 0;
   top: 50%;
   transform: translateY(-50%);
+}
+
+ion-title {
+  font-family: 'Bungee Outline', cursive;
 }
 
 #container strong {
