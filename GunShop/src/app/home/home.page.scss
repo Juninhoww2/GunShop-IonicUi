@@ -9,6 +9,29 @@
   transform: translateY(-50%);
 }
 
+
+
+ion-card {
+  width: 100%;
+  padding: 20px;
+  border-radius: 29px;
+  background: #2b2c2d;
+  transform: scale(.9, .9);
+
+  ion-img {
+    width: 50%;
+    margin: auto;
+  }
+}
+
+.custom-card {
+  margin-bottom: 130%;
+}
+
+.customm-card {
+  margin-bottom: top;
+}
+
 ion-title {
   font-family: 'Bungee Outline', cursive;
 }
